@@ -1,0 +1,14 @@
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\bin\Debug\net8.0\ExercicioResolvido06.exe
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\bin\Debug\net8.0\ExercicioResolvido06.deps.json
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\bin\Debug\net8.0\ExercicioResolvido06.runtimeconfig.json
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\bin\Debug\net8.0\ExercicioResolvido06.dll
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\bin\Debug\net8.0\ExercicioResolvido06.pdb
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.AssemblyInfoInputs.cache
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.AssemblyInfo.cs
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.csproj.CoreCompileInputs.cache
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.dll
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\refint\ExercicioResolvido06.dll
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.pdb
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ExercicioResolvido06.genruntimeconfig.cache
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioResolvido06\ExercicioResolvido06\obj\Debug\net8.0\ref\ExercicioResolvido06.dll
