@@ -1,0 +1,14 @@
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\bin\Debug\net8.0\ExercicioBeecrowd1046.exe
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\bin\Debug\net8.0\ExercicioBeecrowd1046.deps.json
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\bin\Debug\net8.0\ExercicioBeecrowd1046.runtimeconfig.json
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\bin\Debug\net8.0\ExercicioBeecrowd1046.dll
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\bin\Debug\net8.0\ExercicioBeecrowd1046.pdb
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.AssemblyInfoInputs.cache
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.AssemblyInfo.cs
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.csproj.CoreCompileInputs.cache
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.dll
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\refint\ExercicioBeecrowd1046.dll
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.pdb
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ExercicioBeecrowd1046.genruntimeconfig.cache
+C:\Users\lucca\OneDrive\Documentos\Projetos\ExercicioBeecrowd1046\ExercicioBeecrowd1046\obj\Debug\net8.0\ref\ExercicioBeecrowd1046.dll
