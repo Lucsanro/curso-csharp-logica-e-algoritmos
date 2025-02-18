@@ -12,11 +12,11 @@ namespace ExercicioBeecrowd1114
 
             while (senha != 2002)
             {
-                Console.WriteLine("Senha invalida");
+                Console.WriteLine("Senha Invalida");
                 senha = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("Acesso permitido");
+            Console.WriteLine("Acesso Permitido");
         }
     }
 }
